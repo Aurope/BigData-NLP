@@ -1,0 +1,22 @@
+model 0:
+Current score is  0.9372873234045933
+model 0:
+Current score is  0.9372873234045933
+model 1:
+Current score is  0.9378552261767925
+model 2:
+Current score is  0.9346567247907415
+model 3:
+Current score is  0.9432364352950742
+model 4:
+Current score is  0.939908221513572
+model 5:
+Current score is  0.9368813306536686
+model 6:
+Current score is  0.9382278327036369
+model 7:
+Current score is  0.9385560157325071
+model 8:
+Current score is  0.9380774869208272
+model 9:
+Current score is  0.9411419384439493
